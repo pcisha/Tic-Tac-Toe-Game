@@ -1,0 +1,115 @@
+
+Starting Tic Tac Toe game at 2024-10-11T23:39:58.021416...
+
+  |   |  
+---------
+  |   |  
+---------
+  |   |  
+
+Player X, enter your move (row and column): 
+3
+3
+
+Invalid move. Try again.
+
+  |   |  
+---------
+  |   |  
+---------
+  |   |  
+
+Player X, enter your move (row and column): 
+1
+2
+
+  |   |  
+---------
+  |   | X
+---------
+  |   |  
+
+Player O, enter your move (row and column): 
+2
+3
+
+Invalid move. Try again.
+
+  |   |  
+---------
+  |   | X
+---------
+  |   |  
+
+Player O, enter your move (row and column): 
+2
+2
+
+  |   |  
+---------
+  |   | X
+---------
+  |   | O
+
+Player X, enter your move (row and column): 
+1
+1
+
+  |   |  
+---------
+  | X | X
+---------
+  |   | O
+
+Player O, enter your move (row and column): 
+0
+0
+
+O |   |  
+---------
+  | X | X
+---------
+  |   | O
+
+Player X, enter your move (row and column): 
+0
+1
+
+O | X |  
+---------
+  | X | X
+---------
+  |   | O
+
+Player O, enter your move (row and column): 
+1
+2
+Invalid move. Try again.
+
+O | X |  
+---------
+  | X | X
+---------
+  |   | O
+
+Player O, enter your move (row and column): 
+1
+0
+
+O | X |  
+---------
+O | X | X
+---------
+  |   | O
+
+Player X, enter your move (row and column): 
+2
+1
+
+O | X |  
+---------
+O | X | X
+---------
+  | X | O
+
+Player X wins!

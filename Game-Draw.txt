@@ -1,0 +1,136 @@
+
+Starting Tic Tac Toe game at 2024-10-11T23:43:27.204472...
+
+  |   |  
+---------
+  |   |  
+---------
+  |   |  
+
+Player X, enter your move (row and column): 
+0
+1
+
+  | X |  
+---------
+  |   |  
+---------
+  |   |  
+
+Player O, enter your move (row and column): 
+2
+3
+
+Invalid move. Try again.
+
+  | X |  
+---------
+  |   |  
+---------
+  |   |  
+
+Player O, enter your move (row and column): 
+2
+2
+
+  | X |  
+---------
+  |   |  
+---------
+  |   | O
+
+Player X, enter your move (row and column): 
+1
+2
+
+  | X |  
+---------
+  |   | X
+---------
+  |   | O
+
+Player O, enter your move (row and column): 
+0
+1
+
+Invalid move. Try again.
+
+  | X |  
+---------
+  |   | X
+---------
+  |   | O
+
+Player O, enter your move (row and column): 
+1
+1
+
+  | X |  
+---------
+  | O | X
+---------
+  |   | O
+
+Player X, enter your move (row and column): 
+0
+0
+
+X | X |  
+---------
+  | O | X
+---------
+  |   | O
+
+Player O, enter your move (row and column): 
+1
+0
+
+X | X |  
+---------
+O | O | X
+---------
+  |   | O
+
+Player X, enter your move (row and column): 
+2
+1
+
+X | X |  
+---------
+O | O | X
+---------
+  | X | O
+
+Player O, enter your move (row and column): 
+1
+2
+
+Invalid move. Try again.
+
+X | X |  
+---------
+O | O | X
+---------
+  | X | O
+
+Player O, enter your move (row and column): 
+0
+2
+
+X | X | O
+---------
+O | O | X
+---------
+  | X | O
+
+Player X, enter your move (row and column): 
+2
+0
+
+X | X | O
+---------
+O | O | X
+---------
+X | X | O
+
+It's a draw!
